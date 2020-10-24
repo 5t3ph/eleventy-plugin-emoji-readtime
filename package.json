@@ -1,6 +1,6 @@
 {
   "name": "@11tyrocks/eleventy-plugin-emoji-readtime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Display an estimated read time for Eleventy content, optionally with an emoji visual indicator.",
   "homepage": "https://11ty.rocks/#plugin-emoji-read-time",
   "main": ".eleventy.js",
