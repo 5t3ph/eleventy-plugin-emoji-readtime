@@ -62,7 +62,7 @@ eleventyConfig.addPlugin(emojiReadTime, {
 Which would output:
 
 ```html
-📕📕 7 mins
+📕 7 mins
 ```
 
 ### Remove emoji from being displayed
